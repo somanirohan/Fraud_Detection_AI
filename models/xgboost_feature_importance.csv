@@ -1,0 +1,244 @@
+Feature,Importance,Importance_%
+Previous_Fraudulent_Transactions,0.40325415,40.32542
+Account_Age,0.17664401,17.664402
+risk_score,0.10120182,10.120183
+step,0.080240026,8.024003
+nameOrig_Other,0.078722596,7.8722606
+unusual_transaction_amount_flag,0.042480346,4.248035
+time_pressure_indicators,0.022559086,2.2559087
+merchant_category_code_unknown,0.018766914,1.8766916
+handle_verification_status_verified,0.011403405,1.1403406
+pin_entry_method_pasted,0.008176979,0.81769794
+handle_registration_pattern_recent,0.008101981,0.8101982
+fraud_flag,0.0061354074,0.6135408
+amount (INR),0.0061214915,0.61214924
+handle_to_description_consistency,0.005098306,0.50983065
+receiver_account_age,0.0049551567,0.4955157
+description_Remote payment assistance,0.0045084036,0.4508404
+transaction_amount_vs_sender_history,0.0044572726,0.44572732
+isFraud,0.0043412284,0.4341229
+handle_typo_analysis_typo_squatting,0.0035205411,0.35205415
+authentication_attempt_count,0.0022972918,0.2297292
+description_Other,0.0013972553,0.13972555
+amount,0.0011197815,0.111978166
+app_switching_frequency,0.0007779588,0.07779589
+merchant_category_Entertainment,0.0005336041,0.053360417
+merchant_category_Transport,0.00046652518,0.046652522
+merchant_category_Food,0.00029393518,0.029393522
+hour_of_day,0.00018860304,0.018860307
+merchant_category_Healthcare,0.00016624432,0.016624434
+newbalanceDest,0.00010243255,0.010243256
+oldbalanceDest,7.87454e-05,0.00787454
+transaction_status_SUCCESS,7.3028656e-05,0.0073028663
+sender_age_group_56+,6.504466e-05,0.0065044668
+sender_age_group_46-55,6.0420443e-05,0.006042045
+receiver_bank_PNB,6.016248e-05,0.006016249
+day_of_week_Thursday,5.1745465e-05,0.005174547
+sender_state_Rajasthan,4.855431e-05,0.0048554316
+oldbalanceOrg,4.77656e-05,0.0047765607
+merchant_category_Other,4.3849217e-05,0.004384922
+sender_bank_IndusInd,4.3377917e-05,0.0043377923
+merchant_category_Shopping,4.271982e-05,0.0042719822
+receiver_bank_HDFC,4.1002397e-05,0.00410024
+sender_state_Karnataka,4.040258e-05,0.0040402585
+receiver_age_group_26-35,3.9676466e-05,0.003967647
+transaction type_P2P,3.948591e-05,0.003948591
+day_of_week_Monday,3.870642e-05,0.0038706425
+receiver_age_group_36-45,3.863338e-05,0.0038633384
+merchant_category_Utilities,3.844554e-05,0.0038445545
+sender_bank_HDFC,3.8064292e-05,0.0038064297
+sender_bank_Yes Bank,3.7443806e-05,0.003744381
+sender_bank_Kotak,3.7165846e-05,0.003716585
+sender_bank_SBI,3.696925e-05,0.0036969252
+type_PAYMENT,3.4724202e-05,0.0034724206
+receiver_bank_SBI,3.459657e-05,0.0034596575
+sender_state_Maharashtra,3.4173958e-05,0.0034173962
+device_type_Web,3.3909673e-05,0.0033909676
+receiver_age_group_56+,3.387055e-05,0.0033870554
+sender_state_Telangana,3.38182e-05,0.0033818204
+sender_state_West Bengal,3.32004e-05,0.0033200402
+network_type_4G,3.2891567e-05,0.003289157
+sender_bank_ICICI,3.2380784e-05,0.0032380787
+merchant_category_Fuel,3.1535597e-05,0.0031535602
+day_of_week_Saturday,3.1277046e-05,0.003127705
+transaction type_P2M,3.0834177e-05,0.0030834181
+network_type_WiFi,3.0759147e-05,0.0030759152
+is_weekend,3.0724834e-05,0.0030724837
+transaction type_Recharge,3.0095312e-05,0.0030095316
+receiver_bank_Kotak,2.923915e-05,0.0029239154
+network_type_5G,2.8982373e-05,0.0028982377
+receiver_bank_Yes Bank,2.8637576e-05,0.002863758
+sender_state_Delhi,2.8248569e-05,0.0028248574
+sender_state_Uttar Pradesh,2.74096e-05,0.0027409603
+sender_age_group_36-45,2.704004e-05,0.0027040043
+day_of_week_Sunday,2.5513244e-05,0.0025513247
+day_of_week_Wednesday,2.5077114e-05,0.0025077118
+sender_state_Tamil Nadu,2.4300893e-05,0.0024300895
+sender_age_group_26-35,2.2793476e-05,0.0022793477
+device_type_iOS,2.1275177e-05,0.002127518
+receiver_bank_ICICI,2.0934369e-05,0.0020934371
+day_of_week_Tuesday,2.040014e-05,0.0020400144
+sender_bank_PNB,1.9584268e-05,0.001958427
+receiver_bank_IndusInd,1.7059238e-05,0.0017059239
+receiver_age_group_46-55,1.5782498e-05,0.00157825
+merchant_category_Grocery,1.5498594e-05,0.0015498595
+input_timing_consistency,1.4688302e-05,0.0014688304
+sender_state_Gujarat,1.3161738e-05,0.0013161739
+Number_of_Transactions_Last_24H,5.812811e-06,0.0005812812
+Transaction_Amount,2.2416484e-06,0.00022416486
+newbalanceOrig,1.6011775e-06,0.00016011776
+Location_Los Angeles,1.124577e-06,0.00011245771
+type_TRANSFER,5.5507485e-07,5.550749e-05
+business_name_match_Farmer_ Brooks and Garcia,0.0,0.0
+business_name_match_Davis-Rodgers,0.0,0.0
+Transaction_Type_Online Purchase,0.0,0.0
+Transaction_Type_Bill Payment,0.0,0.0
+Transaction_Type_Bank Transfer,0.0,0.0
+business_name_match_Mcdaniel_ Fields and Aguilar,0.0,0.0
+business_name_match_Other,0.0,0.0
+business_name_match_Smith Group,0.0,0.0
+business_name_match_Smith-Hall,0.0,0.0
+business_name_match_none,0.0,0.0
+business_name_match_Diaz_ Edwards and Guerra,0.0,0.0
+business_name_match_Douglas_ Vega and Maynard,0.0,0.0
+Payment_Method_Net Banking,0.0,0.0
+Payment_Method_UPI,0.0,0.0
+Location_Seattle,0.0,0.0
+Location_San Francisco,0.0,0.0
+Location_New York,0.0,0.0
+Device_Used_Unknown Device,0.0,0.0
+Location_Miami,0.0,0.0
+Payment_Method_Invalid Method,0.0,0.0
+Payment_Method_Debit Card,0.0,0.0
+Location_Unknown,0.0,0.0
+Device_Used_Tablet,0.0,0.0
+Fraudulent,0.0,0.0
+Device_Used_Mobile,0.0,0.0
+merchant_category_code_utilities,0.0,0.0
+merchant_category_code_services,0.0,0.0
+merchant_category_code_retail,0.0,0.0
+merchant_category_code_food,0.0,0.0
+location_(88.037337_ 148.967632),0.0,0.0
+location_Other,0.0,0.0
+isFlaggedFraud,0.0,0.0
+keyboard_input_speed,0.0,0.0
+location_(-54.078585_ 34.047753),0.0,0.0
+location_(-57.5035005_ 45.426086),0.0,0.0
+location_(-81.5508345_ 114.379973),0.0,0.0
+location_(13.806032_ -176.605368),0.0,0.0
+location_(18.431853_ 26.529317),0.0,0.0
+location_(38.7745695_ -53.372382),0.0,0.0
+location_(59.924113_ 15.772097),0.0,0.0
+location_(63.2430215_ 172.944962),0.0,0.0
+ip_address_89.223.179.179,0.0,0.0
+ip_address_49.221.248.16,0.0,0.0
+ip_address_96.188.116.70,0.0,0.0
+ip_address_Other,0.0,0.0
+description_Urgent refund processing - act now!,0.0,0.0
+description_Payment to Paytm_clone for premium products,0.0,0.0
+handle_similarity_score,0.0,0.0
+handle_contains_official_terms,0.0,0.0
+handle_transaction_history,0.0,0.0
+input_pause_patterns,0.0,0.0
+ip_address_125.165.248.30,0.0,0.0
+ip_address_156.93.45.217,0.0,0.0
+ip_address_180.169.87.64,0.0,0.0
+ip_address_19.136.27.177,0.0,0.0
+ip_address_193.39.8.117,0.0,0.0
+ip_address_2.133.188.51,0.0,0.0
+description_Payment to Flipkart_clone for premium products,0.0,0.0
+description_Payment to Johnson and Sons for products,0.0,0.0
+description_Payment to Amazon_clone for premium products,0.0,0.0
+description_Payment to Miller Inc for bill,0.0,0.0
+description_Payment to Smith Ltd for services,0.0,0.0
+description_Payment to Snapdeal_clone for premium products,0.0,0.0
+geographic_disparity,0.0,0.0
+geographic_location_vs_ip,0.0,0.0
+dns_lookup_age,0.0,0.0
+failed_transaction_count,0.0,0.0
+Location_Houston,0.0,0.0
+Location_Chicago,0.0,0.0
+Device_Used_Unknown,0.0,0.0
+Transaction_Type_POS Payment,0.0,0.0
+Payment_Method_Unknown,0.0,0.0
+Time_of_Transaction,0.0,0.0
+business_name_match_Contreras-Miller,0.0,0.0
+background_data_usage,0.0,0.0
+authorization_method_pin,0.0,0.0
+authentication_attempts,0.0,0.0
+pin_entry_speed,0.0,0.0
+permissions_granted___,0.0,0.0
+otp_request_frequency,0.0,0.0
+nameDest_C97730845,0.0,0.0
+nameDest_C985934102,0.0,0.0
+nameDest_Other,0.0,0.0
+nameOrig_C1239049859,0.0,0.0
+otp_request_device_consistency,0.0,0.0
+nameOrig_C494623691,0.0,0.0
+nameOrig_C905537218,0.0,0.0
+nameOrig_C552905269,0.0,0.0
+nameDest_C11003494,0.0,0.0
+request_frequency,0.0,0.0
+request_description_keywords___,0.0,0.0
+request_amount_roundness,0.0,0.0
+request_description_Urgent refund processing - act now!,0.0,0.0
+requester_account_age,0.0,0.0
+screen_active_time,0.0,0.0
+recognized_screen_sharing_apps___,0.0,0.0
+request_acceptance_rate,0.0,0.0
+receiver_transaction_history,0.0,0.0
+recent_app_installs___,0.0,0.0
+nameDest_C1504109395,0.0,0.0
+nameDest_C1255024717,0.0,0.0
+nameDest_C1899073220,0.0,0.0
+nameDest_C2083562754,0.0,0.0
+nameDest_C451111351,0.0,0.0
+nameDest_C1590550415,0.0,0.0
+nameOrig_C2111477047,0.0,0.0
+nameOrig_C1793676786,0.0,0.0
+nameOrig_C1711727797,0.0,0.0
+nameOrig_C133857826,0.0,0.0
+nameOrig_C1250194175,0.0,0.0
+timestamp_2024-05-16 20:14:31,0.0,0.0
+timestamp_2024-06-24 19:07:34,0.0,0.0
+timestamp_2024-07-11 15:45:15,0.0,0.0
+time_between_otp_generation_and_input,0.0,0.0
+time_to_respond_to_request,0.0,0.0
+timestamp_12:15.7,0.0,0.0
+timestamp_14:29.5,0.0,0.0
+timestamp_15:55.4,0.0,0.0
+session_duration,0.0,0.0
+time_between_link_click_and_transaction,0.0,0.0
+session_source_link,0.0,0.0
+timestamp_36:54.3,0.0,0.0
+timestamp_20:35.7,0.0,0.0
+timestamp_2024-12-25 18:15:15,0.0,0.0
+timestamp_2024-10-30 17:40:51,0.0,0.0
+timestamp_2024-09-19 12:40:40,0.0,0.0
+timestamp_2024-09-15 17:54:31,0.0,0.0
+timestamp_2024-07-23 21:31:06,0.0,0.0
+timestamp_2024-07-14 12:31:39,0.0,0.0
+timestamp_Other,0.0,0.0
+timestamp_39:41.6,0.0,0.0
+timestamp_42:26.7,0.0,0.0
+transaction_time_of_day,0.0,0.0
+transaction_type_payment,0.0,0.0
+transaction_velocity,0.0,0.0
+timestamp_46:38.2,0.0,0.0
+timestamp_37:35.4,0.0,0.0
+type_DEBIT,0.0,0.0
+type_CASH_OUT,0.0,0.0
+unusual_ip_flag,0.0,0.0
+unusual_device_flag,0.0,0.0
+unusual_location_flag,0.0,0.0
+upi_handle_age,0.0,0.0
+url_referrer_Unknown,0.0,0.0
+url_referrer_http://hughes.info/posts/tagsmain.asp,0.0,0.0
+url_referrer_http://little-smith.net/posts/categories/blogindex.jsp,0.0,0.0
+url_referrer_http://www.barron.com/app/category/listprivacy.htm,0.0,0.0
+url_referrer_http://www.ingram.com/tags/app/mainprivacy.php,0.0,0.0
+url_referrer_http://www.martinez.com/category/explorecategory.htm,0.0,0.0
+url_referrer_http://www.wilson.com/wp-content/category/mainregister.asp,0.0,0.0
+url_referrer_https://mays.com/explore/taglogin.php,0.0,0.0
+url_referrer_https://www.mullins-brooks.com/list/taglogin.html,0.0,0.0
+url_referrer_https://www.nelson.biz/appregister.asp,0.0,0.0
