@@ -16,3 +16,10 @@ dist/
 
 # Large processed data files (can be regenerated from scripts)
 processed_data/
+
+# Web application (keeping only ML models and scripts)
+backend/
+frontend/
+run_app.bat
+QUICKSTART.md
+test_*.py
